@@ -20,6 +20,8 @@ III. Setup the Application/Environment
   9. Navigate to Project left panel > start > test > Form.java
   10. Run 'Form'
   
+  More info: In this project, I just do the automation test for login, enter  OTP, select business role, additional details and get the last page text.
+  
   IV. Aspire_Requirements_High_level_TCs.xlsx: Analysis requirements and breakdown the high level test cases for testing.
   
   
